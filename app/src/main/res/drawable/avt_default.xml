@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avatar xmlns:tools="http://schemas.android.com/tools">
+    <image>
+        <url tools:ignore="ExtraText">https://vnn-imgs-a1.vgcloud.vn/image1.ictnews.vn/_Files/2020/03/17/trend-avatar-1.jpg</url>
+    </image>
+    <name>John Doe</name>
+    <description>This is my avatar.</description>
+</avatar>
